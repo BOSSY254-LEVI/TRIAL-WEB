@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
+  "homepage": "https://bossy254-levi.github.io/TRIAL-WEB/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
